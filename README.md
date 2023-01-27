@@ -1,6 +1,7 @@
 # BMP Convertor (C)
 ## Introduction
 A simple tool to apply filters on a BMP 24bits image.
+If you only want to test the software, you can find it in [bin/Release](https://github.com/allien-j/bmp-convertor/tree/main/bin/Release)
 
 We recommand you to use **code::blocks**.
 *But it's not necessary.*
