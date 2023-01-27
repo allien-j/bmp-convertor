@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1666100207 source:c:\users\da207280\onedrive - université nice sophia antipolis\documents\semestre 1\sae implémentation besoin client\saeimages\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669680257 source:c:\users\jim\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\main.c
+	"tools.h"
+
+1669680257 source:c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\main.c
+	"tools.h"
+
+1669206169 c:\users\jim\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
+1669206169 c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
+1669679224 source:c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\tools.c
+	"tools.h"
+
+1670449200 source:c:\users\jim\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\tools.c
+	"tools.h"
+
+1668683480 source:c:\users\jim\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\resources.rc
+
+1668683480 source:c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main\saeimages\resources.rc
+
+1668683480 source:c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main-b\saeimages\resources.rc
+
+1670449200 source:c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main-b\saeimages\tools.c
+	"tools.h"
+
+1669206169 c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main-b\saeimages\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+
+1670867760 source:c:\users\lj201202\onedrive - université nice sophia antipolis\sae\saÉ 1.01-1.02\image-convertor-main-b\saeimages\main.c
+	"tools.h"
+
