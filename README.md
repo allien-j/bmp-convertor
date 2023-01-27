@@ -6,7 +6,7 @@ We recommand you to use **code::blocks**.
 *But it's not necessary.*
 
 ## Call with arguments
-- Repertory *ex: C:\Documents\images\*
+- Repertory *ex: "C:\Documents\images\"*
 - Processing: 
 ```
 1 = Gray Levels
@@ -20,7 +20,7 @@ We recommand you to use **code::blocks**.
 *Optionnal with processing 5:*
 - 2nd Image *ex: test2.bmp*
 
-### Exemple:
+### Example:
 **convertor.exe "C:\Documents\images\" 2 test1.bmp**
 
  ## GUI Open (*without arguments*)
