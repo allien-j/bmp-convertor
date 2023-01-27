@@ -1,11 +1,11 @@
-# BMP Convertor (C language)
+# BMP Convertor (C)
 ## Introduction
-Just a simple image processor.
+A simple tool to apply filters on a BMP 24bits image.
 
 We recommand you to use **code::blocks**.
 *But it's not necessary.*
 
-## Arguments
+## Call with arguments
 - Repertory *ex: C:\Documents\images\*
 - Processing: 
 ```
@@ -19,6 +19,9 @@ We recommand you to use **code::blocks**.
 
 *Optionnal with processing 5:*
 - 2nd Image *ex: test2.bmp*
+
+### Exemple:
+**convertor.exe "C:\Documents\images\" 2 test1.bmp**
 
  ## GUI Open (*without arguments*)
  You just have to follow the instructions. *Arguments are in the same order*
